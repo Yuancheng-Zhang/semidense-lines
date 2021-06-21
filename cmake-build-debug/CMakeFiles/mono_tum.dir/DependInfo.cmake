@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/yc/文档/SLAM/semidense-lines/Examples/Monocular/mono_tum.cc" "/home/yc/文档/SLAM/semidense-lines/cmake-build-debug/CMakeFiles/mono_tum.dir/Examples/Monocular/mono_tum.cc.o"
+  "/home/yuancheng/文档/SLAM/semidense-lines/Examples/Monocular/mono_tum.cc" "/home/yuancheng/文档/SLAM/semidense-lines/cmake-build-debug/CMakeFiles/mono_tum.dir/Examples/Monocular/mono_tum.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -21,17 +21,18 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "."
   "../"
   "../include"
-  "/usr/local/include/eigen3"
   "../Thirdparty/Line3Dpp"
   "../Thirdparty/Line3Dpp/build"
   "../Thirdparty/EDTest"
-  "/usr/include/eigen3"
-  "/usr/local/include/opencv"
+  "/usr/local/include/eigen3"
+  "/home/yuancheng/Pangolin/include"
+  "/home/yuancheng/Pangolin/build/src/include"
+  "/usr/include/opencv"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/yc/文档/SLAM/semidense-lines/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/DependInfo.cmake"
+  "/home/yuancheng/文档/SLAM/semidense-lines/cmake-build-debug/CMakeFiles/ORB_SLAM2.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

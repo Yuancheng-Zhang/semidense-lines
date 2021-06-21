@@ -1,4 +1,4 @@
-/snap/clion/151/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/yc/文档/SLAM/semidense-lines
+/snap/clion/152/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/yuancheng/文档/SLAM/semidense-lines
 CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
   Compatibility with CMake < 2.8.12 will be removed from a future version of
   CMake.
@@ -25,7 +25,7 @@ Build type: Debug
 -- Performing Test COMPILER_SUPPORTS_CXX0X
 -- Performing Test COMPILER_SUPPORTS_CXX0X - Success
 -- Using flag -std=c++11.
--- Using opencv version 3.4.13
+-- Using opencv version 3.2.0
 -- Found Eigen3: /usr/local/include/eigen3 (Required is at least version "3.1.0") 
 -- Found OpenMP_C: -fopenmp (found version "4.5") 
 -- Found OpenMP_CXX: -fopenmp (found version "4.5") 
@@ -67,4 +67,4 @@ This warning is for project developers.  Use -Wno-dev to suppress it.
 -- A library with LAPACK API found.
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/yc/文档/SLAM/semidense-lines/cmake-build-debug
+-- Build files have been written to: /home/yuancheng/文档/SLAM/semidense-lines/cmake-build-debug
